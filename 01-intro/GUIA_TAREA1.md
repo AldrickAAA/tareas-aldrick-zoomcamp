@@ -10,10 +10,10 @@ Columnas: `model_year, origin, fuel_type, drivetrain, num_doors, engine_displace
 ## Estado
 - [x] Entorno, kernel, dataset y notebook base
 - [x] Guía NumPy (1.7): `1.7-numpy-guia.ipynb`
-- [ ] Lecciones 1.8 y 1.9
-- [ ] Q1 · [ ] Q2 · [ ] Q3 · [ ] Q4 · [ ] Q5 · [ ] Q6 · [ ] Q7
-- [ ] Restart + Run All sin errores
-- [ ] Auditoría con Claude ("corrige")
+- [x] Lecciones 1.8 y 1.9
+- [x] Q1 · [x] Q2 · [x] Q3 · [x] Q4 · [x] Q5 · [x] Q6 · [x] Q7
+- [x] Restart + Run All sin errores
+- [x] Auditoría con Claude ("corrige")
 - [ ] `git push` + envío en la plataforma
 
 ## Pistas por pregunta
