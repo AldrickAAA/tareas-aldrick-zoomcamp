@@ -19,7 +19,7 @@ Convención de nombres dentro de cada módulo:
 | `homework.ipynb` | Tarea evaluable del módulo |
 | `X.Y-tema-guia.ipynb` | Guía de estudio de una lección |
 | `X.Y-tema-practica.ipynb` | Práctica siguiendo el vídeo de la lección |
-| `GUIA_TAREAn.md` | Pistas paso a paso de la tarea |
+| `GUIA_TAREAn.md` | Pistas personales de la tarea (**privadas**, excluidas por `.gitignore`) |
 
 Los datasets **no** se versionan (`*.csv` en `.gitignore`): cada notebook indica de dónde descargarlos.
 

@@ -16,3 +16,6 @@ credentials*.json
 *.pkl
 # macOS
 .DS_Store
+# Guías privadas de tareas (pistas personales): nunca se suben, en ningún módulo
+GUIA_TAREA*.md
+**/GUIA_TAREA*.md
