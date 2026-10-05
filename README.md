@@ -28,7 +28,7 @@ Los datasets **no** se versionan (`*.csv` en `.gitignore`): cada notebook indica
 | Módulo | Tarea | Prácticas |
 |---|---|---|
 | 01 · Intro | [homework.ipynb](01-intro/homework.ipynb) | [NumPy](01-intro/1.7-numpy-guia.ipynb) · [Álgebra lineal](01-intro/1.8-algebra-lineal-practica.ipynb) · [Pandas](01-intro/1.9-pandas-practica.ipynb) |
-| 02 · Regresión | — | — |
+| 02 · Regresión | [homework.ipynb](02-regression/homework.ipynb) | — |
 
 ## Entorno
 
