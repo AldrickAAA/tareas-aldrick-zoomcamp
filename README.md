@@ -7,6 +7,7 @@ Tareas, prácticas y proyectos del [Machine Learning Zoomcamp 2026](https://gith
 ```
 ├── 01-intro/          Módulo 1 · Introducción al ML
 ├── 02-regression/     Módulo 2 · Regresión
+├── 03-classification/ Módulo 3 · Clasificación
 ├── ...                (una carpeta por módulo)
 ├── pyproject.toml     Dependencias (uv)
 └── uv.lock            Versiones fijadas
@@ -29,6 +30,7 @@ Los datasets **no** se versionan (`*.csv` en `.gitignore`): cada notebook indica
 |---|---|---|
 | 01 · Intro | [homework.ipynb](01-intro/homework.ipynb) | [NumPy](01-intro/1.7-numpy-guia.ipynb) · [Álgebra lineal](01-intro/1.8-algebra-lineal-practica.ipynb) · [Pandas](01-intro/1.9-pandas-practica.ipynb) |
 | 02 · Regresión | [homework.ipynb](02-regression/homework.ipynb) | — |
+| 03 · Clasificación | [homework.ipynb](03-classification/homework.ipynb) | — |
 
 ## Entorno
 
